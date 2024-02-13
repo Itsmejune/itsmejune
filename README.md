@@ -65,7 +65,9 @@
 <br/>
 
 <div align="center">
-<a href='https://' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://www.buymeacoffee.com/itsmejulie' border='0' alt='Buy Me a Coffee at ' /></a>
+<a href="https://www.buymeacoffee.com/itsmejulie"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=itsmejulie&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
 <br/>
+
+
