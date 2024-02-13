@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Supabase, AWS**
 
-💬 Ask me about **Data Privacy... or anything [here](https://github.com/Itsmejune)**
+💬 Ask me about **Data Privacy... or anything [here]((https://www.linkedin.com/in/juliane-panzer/))**
 
 ⚡ Fun fact **Everything you’re experiencing right now actually happened 80 milliseconds ago.**
 
