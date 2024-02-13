@@ -49,17 +49,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com" alt="streak stats"/>
-  <img width=390 src="https:/" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://streak-stats.demolab.com" alt="top langs" />
-</div>
-
-<br/><br/>
-
 <hr/>
 
 <br/>
