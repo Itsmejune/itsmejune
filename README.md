@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Julie!;" />
 </h1>
 
-<h3 align="center">A passionate software developer and data privacy instructor originally from Berlin, Germany </h3>
+<h3 align="center">A passionate software developer and data privacy instructor originally from Berlin, Germany.</h3>
 
 <br/>
 
@@ -40,8 +40,10 @@
 
 <br/>
 <hr/>
-
-  <br/><br/><br/>
+  <h2 align="center">👩🏼‍💻 Free LinkedIn Courses 👩🏼‍💻</h2>
+  [Cybersecurity - Bedrohungen im Überblick](https://www.linkedin.com/learning/cybersecurity-bedrohungen-im-uberblick/cyberbedrohungen-erkennen-und-abwehren)
+  <br/>
+  [Cybersecurity – Grundlagen für IT-Pros](https://www.linkedin.com/learning/cybersecurity-grundlagen-fur-it-pros-22719015/netzwerke-vor-cyberangriffen-schutzen)
 </div>
 
 <hr/>
