@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a new portfolio with all my apps**
  
- 🌱 I’m currently learning **OSINT, CLOUD SECURITY, SIEM**
+ 🌱 I’m currently learning **OSINT, CLOUD SECURITY, SIEM + XR**
 
 💬 Ask me about **Data Privacy... or anything [here](https://www.linkedin.com/in/juliane-panzer/)**
 
