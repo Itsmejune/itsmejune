@@ -47,9 +47,7 @@
 <br/>
 <hr/>
   <h2 align="center">👩🏼‍💻 Free LinkedIn Courses 👩🏼‍💻</h2>
-  [Cybersecurity - Bedrohungen im Überblick](https://www.linkedin.com/learning/cybersecurity-bedrohungen-im-uberblick/cyberbedrohungen-erkennen-und-abwehren)
   <br/>
-  [Cybersecurity – Grundlagen für IT-Pros](https://www.linkedin.com/learning/cybersecurity-grundlagen-fur-it-pros-22719015/netzwerke-vor-cyberangriffen-schutzen)
 </div>
 
 <hr/>
