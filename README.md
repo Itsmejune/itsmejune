@@ -35,26 +35,7 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
 
-<br/>
-<hr/>
-  <h2 align="center">👩🏼‍💻 Free LinkedIn Courses 👩🏼‍💻</h2>
-  <br/>
-</div>
-
-<hr/>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/itsmejulie"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=itsmejulie&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-</div>
 
 <br/>
 
